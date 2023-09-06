@@ -28,7 +28,7 @@ Data limitations: Even though the data was not collected from real participants,
 
 Preprocessing: No preprocessing was performed prior to uploading the dataset to the Jupyter Notebook.
 
-# [Code Structure](Drug_Effects_on_Memory_Hyp_Testing.ipynb)
+# [Code Structure](Drug_Effects_on_Memory_Hypothesis_Testing.ipynb)
 1. Importing packages and data - Relevant packages and the dataset were imported into the Jupyter Notebook.
 
 2. Exploratory data analysis - The data was cleaned, explored, and structured, and cleaning was validated to ensure the data was prepared for analysis.

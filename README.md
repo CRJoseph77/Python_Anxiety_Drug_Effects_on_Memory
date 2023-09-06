@@ -21,7 +21,7 @@ Data visualization: matplotlib, seaborn.
 
 Statistical analysis: statsmodels
 
-# Data
+# [Data](Islander_data.csv)
 Source data: The dataset used for this project was downloaded from Kaggle. It contains data generated at UCLA from a virtual environment on virtual participants that simulate real human behavior. The data can be found here: https://www.kaggle.com/datasets/steveahn/memory-test-on-drugged-islanders-data.
 
 Data limitations: Even though the data was not collected from real participants, the dataset is still suitable for the purposes of this project. Any results and conclusions should be interpreted cautiously as they may not represent actual, real-world effects of anti-anxiety medications on memory. 
